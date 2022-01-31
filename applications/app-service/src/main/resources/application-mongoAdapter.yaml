@@ -1,0 +1,5 @@
+mongoConfig:
+  user:
+  password:
+  connectionString: mongodb://localhost:27017/chat_app_db
+  database: chat_app_db
